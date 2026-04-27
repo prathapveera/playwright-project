@@ -1,0 +1,17 @@
+{
+    "username": {
+        "locatortype": "getbyrole",
+        "role": "textbox",
+        "value": "Username"
+    },
+    "password": {
+        "locatortype": "getbyrole",
+        "role": "textbox",
+        "value": "Password"
+    },
+    "loginButton": {
+        "locatortype": "getbyrole",
+        "role": "button",
+        "value": "Login"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "qa": {
+        "webUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+    },
+    "uat": {
+        "webUrl": "https://www.saucedemo.com/"
+    }
+}

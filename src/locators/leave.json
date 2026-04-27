@@ -1,0 +1,57 @@
+{
+    "leaveTab": {
+        "locatortype": "getbyrole",
+        "role": "link",
+        "value": "Leave"
+    },
+    "leaveType": {
+        "locatortype": "xpath",
+        "value": "//label[text()='Leave Type']/parent::div[@class='oxd-input-group__label-wrapper']/following-sibling::div//i"
+    },
+    "leaveTypeOption": {
+        "locatortype": "getbytext",
+        "value": "CAN - Personal"
+    },
+    "topbarNav": {
+        "locatortype": "getbyrole",
+        "role": "navigation",
+        "value": "Topbar Menu"
+    },
+    "applyLink": {
+        "locatortype": "getbyrole",
+        "role": "link",
+        "value": "Apply"
+    },
+    "myLeaveLink": {
+        "locatortype": "getbyrole",
+        "role": "link",
+        "value": "My Leave"
+    },
+    "entitlementsMenu": {
+        "locatortype": "getbytext",
+        "value": "Entitlements"
+    },
+    "reportsMenu": {
+        "locatortype": "getbytext",
+        "value": "Reports"
+    },
+    "configureMenu": {
+        "locatortype": "getbytext",
+        "value": "Configure"
+    },
+    "leaveListLink": {
+        "locatortype": "getbyrole",
+        "role": "link",
+        "value": "Leave List"
+    },
+    "assignLeaveLink": {
+        "locatortype": "getbyrole",
+        "role": "link",
+        "value": "Assign Leave"
+    },
+    "helpButton": {
+        "locatortype": "getbyrole",
+        "role": "button",
+        "value": "Help"
+    }
+}
